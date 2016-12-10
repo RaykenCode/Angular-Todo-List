@@ -7,7 +7,7 @@
  */
 var demoApp = angular.module('demoApp', [
     // Dépendances du "module"
-    'todoList' 
+    'todoList'
 ]);
 
 /**
